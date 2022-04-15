@@ -1,5 +1,6 @@
 rencana konten di tahun 2022:
-- devops
+- cloud engineer
 - machine learning
 - front end
+- ui designer
 - backend 
