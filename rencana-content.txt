@@ -3,3 +3,4 @@ rencana konten di tahun 2022:
 - machine learning
 - front end
 - ui designer
+- backend 
