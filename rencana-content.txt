@@ -2,3 +2,4 @@ rencana konten di tahun 2022:
 - devops
 - machine learning
 - front end
+- backend 
